@@ -20,6 +20,12 @@ paths: {
 }
 ```
 
+Don't forget to include the packaged less file...
+
+```less
+@import "../components/dialog-header/dialog-header.less";
+```
+
 You can then use it like this...
 
 ```html
