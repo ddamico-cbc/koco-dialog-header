@@ -1,0 +1,26 @@
+{
+  "name": "koco-dialog-header",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ddamico-cbc/koco-dialog-header",
+  "authors": [
+    "David D'Amico <david.damico@cbc.ca>"
+  ],
+  "description": "Header component for dialogs.",
+  "main": "src/dialog-header-ui.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "koco",
+    "dialoger",
+    "dialog"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
